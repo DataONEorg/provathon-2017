@@ -101,13 +101,15 @@ earth, environmental, and archeological research domains.
 
 1200 - 1300 Lunch
 
-1300 - 1445
+1300 - 1400
 
 -   Intro to the DataONE R provenance tools (Matt) (1 hour)
 
     -   Identify entry point, dataset to be added (possibly done in advance as homework)
 
     -   Highlight different tiers of nodes (tDAR is Tier 1, so no upload)
+    
+1400 - 1445
 
 -   Intro to YesWorkflow (Bertram - 45 mins)
 
