@@ -1,10 +1,10 @@
 # Prov-a-thon: practical tools for reproducible science
 
-<div class="logos" style="float: right">
+<div class="logos" style="float: center">
 <img style="width: 200px; margin: 20px" src="https://www.dataone.org/sites/default/files/d1-logo-v3_aligned_left_0_0.jpeg">
 <img style="width: 300px; margin: 20px" src="images/wholetale-logo.png">
 <img style="width: 170px; margin: 20px" src="https://arcticdata.io/wp-content/themes/aurora/library/images/logo_.png">
-</class>
+</div>
 
 Provenance information enables datasets that are linked 
 to the software and analysis code that created them and used them in research.
