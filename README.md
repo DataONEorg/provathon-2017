@@ -57,7 +57,7 @@ earth, environmental, and archeological research domains.
 
 ## Agenda
 
-**Day 1: Thursday, August 31, 2017**
+### Day 1: Thursday, August 31, 2017
 
 0800 - 1000 DataONE Overview, Why Provenance is Important ← Plenary
 
@@ -121,7 +121,7 @@ earth, environmental, and archeological research domains.
 
 -   Hands on with WT tool, including importing data/provenance from DataONE R package
 
-**Day 2: Friday, September 1, 2017**
+### Day 2: Friday, September 1, 2017
 
 0800 - 1200 Breakout groups: Archaeology, Environmental Science (break 1000 - 1030)
 
@@ -211,7 +211,7 @@ earth, environmental, and archeological research domains.
 
 -   Conclusion, set up report back mechanism (calls in 1-2 months to address questions and improve return)
 
-**Day 3 (morning, optional): **
+### Day 3 (morning, optional)
 
 -   Continued tool exploration, and development of provenance records
 
