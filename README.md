@@ -59,12 +59,11 @@ earth, environmental, and archeological research domains.
 
 ### Day 1: Thursday, August 31, 2017
 
-0800 - 1000 DataONE Overview, Why Provenance is Important ← Plenary
+0800 - 1000 DataONE Overview, Why Provenance is Important ← Plenary  (Tamaya ABC)
 
 -   Overview of DataONE (Bill - 20 minutes + 5 for Q)
 
 -   Overview of Provenance  (Bertram - 15min + 5 for Q)
-
     -   Different notions and uses of provenance,  reproducibility 
 
 -   Overview of Provenance Tools (Status update) (Matt - 60m)
@@ -83,7 +82,7 @@ earth, environmental, and archeological research domains.
 
 1000 - 1030 Break
 
-1030 - 1200 Introductions (Amber moderates)
+1030 - 1200 Introductions (Amber moderates) (Eagle A + B)
 
 -   Around the room
 
