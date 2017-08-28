@@ -115,7 +115,7 @@ earth, environmental, and archeological research domains.
 
 1515 - 1700
 
--   Intro to the Whole Tale web tool (Bertram)
+-   Intro to the Whole Tale web tool (Bertram & Matt)
 
 -   Hands on with WT tool, including importing data/provenance from DataONE R package
 
