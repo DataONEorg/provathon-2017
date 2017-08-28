@@ -197,7 +197,7 @@ earth, environmental, and archeological research domains.
 
 -   Next steps
 
-    -   Roadmap for DataONE and Whole Tale tool development (Konrad)
+    -   Roadmap for DataONE and Whole Tale tool development
 
         -   How can the working group(s) help?
 
