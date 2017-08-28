@@ -63,15 +63,9 @@ earth, environmental, and archeological research domains.
 
 -   Overview of DataONE (Bill - 20 minutes + 5 for Q)
 
--   Why Prov is Important (Bertram - 15min + 5 for Q)
+-   Overview of Provenance  (Bertram - 15min + 5 for Q)
 
-    -   … Provenance for whom and what for?
-
-    -   … Why is everyone talking about provenance anyways?
-
-    -   different notions of provenance and reproducibility by different communities
-
-    -   [*http://ohi-science.org/*](http://ohi-science.org/)
+    -   Different notions and uses of provenance,  reproducibility 
 
 -   Overview of Provenance Tools (Status update) (Matt - 60m)
 
@@ -100,6 +94,8 @@ earth, environmental, and archeological research domains.
 -   Review rest of agenda; suggest changes for afternoon and Day 2
 
 1200 - 1300 Lunch
+
+- Provenance-related summer internship posters (DataONE, Whole Tale)
 
 1300 - 1400
 
