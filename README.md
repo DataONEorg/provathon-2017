@@ -32,6 +32,10 @@ earth, environmental, and archeological research domains.
 
 ## Background reading
 
+Lowndes, J. S. S., B. D. Best, C. Scarborough, J. C. Afflerbach, M. R. Frazier, C. C. O’Hara, N. Jiang, and B. S. Halpern. 2017. [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution 1:0160.
+
+Marwick, B. 2017. [Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation.](https://doi.org/10.1007/s10816-015-9272-9) Journal of Archaeological Method and Theory 24:424–450.
+
 ## Participants
 
 - Jamie Afflerbach
