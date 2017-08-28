@@ -1,4 +1,4 @@
-# Prov-a-thon: practical tools for reproducible science
+# [Prov-a-thon: Practical Tools for Reproducible Science](https://dataoneorg.github.io/provathon-2017/)
 
 <div class="logos" style="float: center">
 <img style="width: 200px; margin: 20px" src="https://www.dataone.org/sites/default/files/d1-logo-v3_aligned_left_0_0.jpeg">
@@ -35,6 +35,11 @@ earth, environmental, and archeological research domains.
 Lowndes, J. S. S., B. D. Best, C. Scarborough, J. C. Afflerbach, M. R. Frazier, C. C. O’Hara, N. Jiang, and B. S. Halpern. 2017. [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution 1:0160.
 
 Marwick, B. 2017. [Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation.](https://doi.org/10.1007/s10816-015-9272-9) Journal of Archaeological Method and Theory 24:424–450.
+
+
+McPhillips, T., Song, T., Kolisnik, T., Aulenbach, S., Belhajjame, K., Bocinsky, R.K., Cao, Y., Cheney, J., Chirigati, F., Dey, S. and Freire, J., 2015. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts.](http://www.ijdc.net/index.php/ijdc/article/download/10.1.298/401) International Journal of Digital Curation, 10(1), pp.298-313.
+
+Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhillips, T., Missier, P., Schwalm, C., Slaughter, P., Vieglais, D. and Walker, L., 2016, June. [DataONE: A Data Federation with Provenance Support.](https://www.researchgate.net/profile/Yang_Cao18/publication/303790663_DataONE_A_Data_Federation_with_Provenance_Support/links/58e1700aaca272059ab07c06/DataONE-A-Data-Federation-with-Provenance-Support.pdf) In International Provenance and Annotation Workshop (pp. 230-234). Springer.
 
 ## Participants
 
