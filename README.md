@@ -59,7 +59,7 @@ earth, environmental, and archeological research domains.
 
 ### Day 1: Thursday, August 31, 2017
 
-####0800 - 1000 Welcome and Overviews (Room: Tamaya ABC)
+**0800 - 1000 Welcome and Overviews (Room: Tamaya ABC)**
 
 - 0800 - 0825 Overview of DataONE (Bill Michener, DataONE)
 
@@ -80,10 +80,10 @@ earth, environmental, and archeological research domains.
 - 0945 - 1000 Goals of Prov-a-thon (Dave Vieglais, DataONE)
  
 
-####1000 - 1030 Break
+**1000 - 1030 Break**
  
 
-####1030 - 1200 Introductions and Lightening Talks (Room: Eagle AB)
+**1030 - 1200 Introductions and Lightening Talks (Room: Eagle AB)**
 
 - 1030 - 1050 Around the room introductions (Amber Budden, DataONE)
 
@@ -93,11 +93,11 @@ earth, environmental, and archeological research domains.
     
 - 1150 - 1200 Agenda review (Matt Jones)
 
-####1200 - 1300 Lunch
+**1200 - 1300 Lunch**
 
 - including provenance-related posters from summer internships (DataONE, Whole Tale)
 
-####1300 - 1445 Provenance Tools I (Room: Eagle AB)
+**1300 - 1445 Provenance Tools I (Room: Eagle AB)**
 
 - 1300 - 1400  Intro to the DataONE R provenance tools (Matt)
 
@@ -109,9 +109,9 @@ earth, environmental, and archeological research domains.
 
     -   YW modeling exercise (Bertram)
 
-####1445 - 1515 Break
+**1445 - 1515 Break**
 
-####1514 - 1700 Provenance Tools II (Room: Eagle AB)
+**1515 - 1700 Provenance Tools II (Room: Eagle AB)**
 
 - 1515 - 1700 Intro to the Whole Tale web tool (Bertram & Matt)
 
@@ -119,7 +119,7 @@ earth, environmental, and archeological research domains.
     
 ### Day 2: Friday, September 1, 2017
 
-####0800 - 1000 Breakout Groups: Archaeology (Room: Eagle A), Environmental Science (Room: Eagle B)
+**0800 - 1000 Breakout Groups: Archaeology (Room: Eagle A), Environmental Science (Room: Eagle B)**
 
 -   Environmental Science (Jones)
 
@@ -175,17 +175,17 @@ earth, environmental, and archeological research domains.
 
             -   White paper on data access and reproducibility for arch. journals?
 
-####1000 - 1030 Break
+**1000 - 1030 Break**
 
-####1030 - 1200 Continued Breakout Sessions
+**1030 - 1200 Continued Breakout Sessions**
 
-####1200 - 1300 Lunch
+**1200 - 1300 Lunch**
 
-####1300 - 1445 Continued Breakout Sessions
+**1300 - 1445 Continued Breakout Sessions**
 
-####1445 - 1515 Break
+**1445 - 1515 Break**
 
-####1515 - 1700 Plenary: Reproducibility and Provenance for Science
+**1515 - 1700 Plenary: Reproducibility and Provenance for Science**
 
 -   Report back from breakout groups (10 minutes each)
 
@@ -211,6 +211,6 @@ earth, environmental, and archeological research domains.
 
 ### Day 3: Saturday, September 2, 2017
 
-####0730 - 0930 Breakfast: Reflections, follow-up
+**0730 - 0930 Breakfast: Reflections, follow-up**
 
 
