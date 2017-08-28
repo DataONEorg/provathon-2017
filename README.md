@@ -14,7 +14,7 @@ the origins of data that ultimaltely supports reproducible research workflows.
 incorporating provenance information into tools and workflows that are useful in 
 earth, environmental, and archeological research domains.
 
-- Dates: Aug 31 - Sep 2 (morning only), 2017
+- Dates: Aug 31 &  Sept 1, 2017
 - Venue: Tamaya Resort, New Mexico
 - Sponsors
     - [DataONE](https://dataone.org)
