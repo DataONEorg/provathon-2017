@@ -92,7 +92,7 @@ Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhilli
 **1000 - 1030 Break**
  
 
-**1030 - 1200 Introductions and Lightening Talks (Room: Eagle AB)**
+**1030 - 1200 Introductions and Lightning Talks (Room: Eagle AB)**
 
 - 1030 - 1050 Around the room introductions (Amber Budden, DataONE)
 
