@@ -39,7 +39,12 @@ Marwick, B. 2017. [Computational Reproducibility in Archaeological Research: Bas
 
 McPhillips, T., Song, T., Kolisnik, T., Aulenbach, S., Belhajjame, K., Bocinsky, R.K., Cao, Y., Cheney, J., Chirigati, F., Dey, S. and Freire, J., 2015. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts.](http://www.ijdc.net/index.php/ijdc/article/download/10.1.298/401) International Journal of Digital Curation, 10(1), pp.298-313.
 
-Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhillips, T., Missier, P., Schwalm, C., Slaughter, P., Vieglais, D. and Walker, L., 2016, June. [DataONE: A Data Federation with Provenance Support.](https://www.researchgate.net/profile/Yang_Cao18/publication/303790663_DataONE_A_Data_Federation_with_Provenance_Support/links/58e1700aaca272059ab07c06/DataONE-A-Data-Federation-with-Provenance-Support.pdf) In International Provenance and Annotation Workshop (pp. 230-234). Springer.
+Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhillips, T., Missier, P., Schwalm, C., Slaughter, P., Vieglais,
+D. and Walker, L., 2016,June.
+[DataONE: A Data Federation with Provenance Support](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_28).
+[(extended preprint)](https://github.com/DataONEorg/provweek2016-demo/raw/master/dataone-demo-latex-version/dataone-prov-demo-long.pdf)
+In International Provenance and Annotation Workshop
+(pp. 230-234). Springer.
 
 ## Participants
 
@@ -56,7 +61,7 @@ Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhilli
 - Eric Kansa
 - Josh London
 - Julie Lowndes
-- Bertram Ludaescher
+- Bertram Ludäscher
 - Hui Lyu
 - Ben Marwick
 - Paulina Przystupa
@@ -72,7 +77,7 @@ Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhilli
 
 - 0800 - 0825 Overview of DataONE (Bill Michener, DataONE)
 
-- 0825 - 0845 Overview of Provenance  (Bertram Ludaescher, UIUC)
+- 0825 - 0845 Overview of Provenance  (Bertram Ludäscher, UIUC)
 
     -   Different notions and uses of provenance,  reproducibility 
     
