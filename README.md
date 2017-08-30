@@ -37,7 +37,7 @@ earth, environmental, and archeological research domains.
 - Jamie Afflerbach
 - Kyle Bocinsky
 - Carl Boettiger
-- Emery Boose
+- Emory Boose
 - Amber Budden
 - Peter Darch
 - Matt Harris
@@ -89,7 +89,7 @@ earth, environmental, and archeological research domains.
 
 - 1050 - 1150 Lightning talks: Provenance and Reproducible Workflows (Kyle Bocinsky, Whole Tale)
 
-    -   Kyle Bocinsky, Ben Marwick, Paulina Przystupa, Matt Harris, Eric Kansa, Carl Boettiger, Emery Boose, Josh London, Jamie Afflerbach, Julie Lowndes, Peter Darch (TBC)
+    -   Kyle Bocinsky*, Ben Marwick*, Paulina Przystupa, Matt Harris*, Eric Kansa*, Carl Boettiger, Emory Boose*, Josh London*, Jamie Afflerbach*, Julie Lowndes*, Peter Darch* (*confirmed)
     
 - 1150 - 1200 Agenda review (Matt Jones)
 
