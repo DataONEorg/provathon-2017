@@ -1,4 +1,4 @@
-# Prov-a-thon: practical tools for reproducible science
+# [Prov-a-thon: Practical Tools for Reproducible Science](https://dataoneorg.github.io/provathon-2017/)
 
 <div class="logos" style="float: center">
 <img style="width: 200px; margin: 20px" src="https://www.dataone.org/sites/default/files/d1-logo-v3_aligned_left_0_0.jpeg">
@@ -32,6 +32,20 @@ earth, environmental, and archeological research domains.
 
 ## Background reading
 
+Lowndes, J. S. S., B. D. Best, C. Scarborough, J. C. Afflerbach, M. R. Frazier, C. C. O’Hara, N. Jiang, and B. S. Halpern. 2017. [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution 1:0160.
+
+Marwick, B. 2017. [Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation.](https://doi.org/10.1007/s10816-015-9272-9) Journal of Archaeological Method and Theory 24:424–450.
+
+
+McPhillips, T., Song, T., Kolisnik, T., Aulenbach, S., Belhajjame, K., Bocinsky, R.K., Cao, Y., Cheney, J., Chirigati, F., Dey, S. and Freire, J., 2015. [YesWorkflow: A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scripts.](http://www.ijdc.net/index.php/ijdc/article/download/10.1.298/401) International Journal of Digital Curation, 10(1), pp.298-313.
+
+Cao, Y., Jones, C., Cuevas-Vicenttín, V., Jones, M.B., Ludäscher, B., McPhillips, T., Missier, P., Schwalm, C., Slaughter, P., Vieglais,
+D. and Walker, L., 2016,June.
+[DataONE: A Data Federation with Provenance Support](https://link.springer.com/chapter/10.1007/978-3-319-40593-3_28).
+[(extended preprint)](https://github.com/DataONEorg/provweek2016-demo/raw/master/dataone-demo-latex-version/dataone-prov-demo-long.pdf)
+In International Provenance and Annotation Workshop
+(pp. 230-234). Springer.
+
 ## Participants
 
 - Jamie Afflerbach
@@ -47,7 +61,7 @@ earth, environmental, and archeological research domains.
 - Eric Kansa
 - Josh London
 - Julie Lowndes
-- Bertram Ludaescher
+- Bertram Ludäscher
 - Hui Lyu
 - Ben Marwick
 - Paulina Przystupa
@@ -63,7 +77,7 @@ earth, environmental, and archeological research domains.
 
 - 0800 - 0825 Overview of DataONE (Bill Michener, DataONE)
 
-- 0825 - 0845 Overview of Provenance  (Bertram Ludaescher, UIUC)
+- 0825 - 0845 Overview of Provenance  (Bertram Ludäscher, UIUC)
 
     -   Different notions and uses of provenance,  reproducibility 
     
@@ -83,7 +97,7 @@ earth, environmental, and archeological research domains.
 **1000 - 1030 Break**
  
 
-**1030 - 1200 Introductions and Lightening Talks (Room: Eagle AB)**
+**1030 - 1200 Introductions and Lightning Talks (Room: Eagle AB)**
 
 - 1030 - 1050 Around the room introductions (Amber Budden, DataONE)
 
@@ -197,7 +211,7 @@ earth, environmental, and archeological research domains.
 
 -   Next steps
 
-    -   Roadmap for DataONE and Whole Tale tool development (Konrad)
+    -   Roadmap for DataONE and Whole Tale tool development
 
         -   How can the working group(s) help?
 
