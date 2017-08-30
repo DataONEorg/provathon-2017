@@ -103,7 +103,7 @@ In International Provenance and Annotation Workshop
 
 - 1050 - 1150 Lightning talks: Provenance and Reproducible Workflows (Kyle Bocinsky, Whole Tale)
 
-    -   Kyle Bocinsky*, Ben Marwick*, Paulina Przystupa, Matt Harris*, Eric Kansa*, Carl Boettiger, Emory Boose*, Josh London*, Jamie Afflerbach*, Julie Lowndes*, Peter Darch* (*confirmed)
+    -   *Kyle Bocinsky*, *Ben Marwick*, Paulina Przystupa, *Matt Harris*, *Eric Kansa*, Carl Boettiger, *Emory Boose*, *Josh London*, *Jamie Afflerbach*, *Julie Lowndes*, *Peter Darch* (*confirmed*)
     
 - 1150 - 1200 Agenda review (Matt Jones)
 
