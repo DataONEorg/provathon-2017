@@ -46,6 +46,13 @@ D. and Walker, L., 2016,June.
 In International Provenance and Annotation Workshop
 (pp. 230-234). Springer.
 
+## Resources links
+
+- [Provenance editing demo](https://dataoneorg.github.io/provathon-2017/prov-editing/prov-editing.html)
+- [Tools for uploading Provenance in R](https://nceas.github.io/oss-lessons/publishing-data/upload-data.html)
+- R Recordr package
+- [Whole Tale dashboard](https://dashboard-dev.wholetale.org)
+
 ## Participants
 
 - Jamie Afflerbach
