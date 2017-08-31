@@ -90,6 +90,10 @@ Science Gateways Workshop, San Diego, 2016.
 - Pratik Srivastava
 - Dave Vieglais
 
+## Notes
+
+- **Day 1 notes:** http://bit.ly/20170831-provathon-notes
+
 ## Agenda
 
 ### Day 1: Thursday, August 31, 2017
