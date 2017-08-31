@@ -26,7 +26,11 @@ researchers to easily associate these provenance relationships with the data tha
 upload to a DataONE data repsository.  Within the data landing page for a data set, the
 data tables and other data items are listed, along with buttons for establishing which
 *input* data were used, what *output products* were created, and which scripts were used
-to habdle the processing.
+to handle the processing.
+
+We'll be editing an example metadata document to illustrate the process:
+
+https://dev.nceas.ucsb.edu/#view/resource_map_urn:uuid:61c7b6d5-9ebe-45e6-92c4-5a74ad299366
 
 ![](prov-web-editor.png)
 
