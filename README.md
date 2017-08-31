@@ -46,6 +46,14 @@ D. and Walker, L., 2016,June.
 In International Provenance and Annotation Workshop
 (pp. 230-234). Springer.
 
+Bertram Ludäscher, Kyle Chard, Niall Gaffney, Matthew B. Jones,
+Jaroslaw Nabrzyski, Victoria Stodden, Matthew Turk,
+[Capturing the "Whole Tale" of Computational Research: Reproducibility in Computing Environments](https://arxiv.org/abs/1610.09958),
+Science Gateways Workshop, San Diego, 2016.
+
+
+
+
 ## Resources links
 
 - [Provenance editing demo](https://dataoneorg.github.io/provathon-2017/prov-editing/prov-editing.html)
@@ -63,6 +71,7 @@ In International Provenance and Annotation Workshop
 - Peter Darch
 - Matt Harris
 - Linh Hoang
+- Xiaoliang Jiang
 - Chris Jones
 - Matt Jones
 - Eric Kansa
@@ -90,7 +99,7 @@ In International Provenance and Annotation Workshop
 
     -   Different notions and uses of provenance,  reproducibility 
     
-- 0845 - 0945 Overview of the Status of Provenance Tools (NCEAS)
+- 0845 - 0945 Overview of the Status of Provenance Tools (Matt Jones, NCEAS)
 
     -   Review of provenance-related tools & systems (ProvONE, Prov in R + Matlab, YW, Prov Entry UI, Whole Tale)
 
