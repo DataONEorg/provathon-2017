@@ -66,6 +66,9 @@ Science Gateways Workshop, San Diego, 2016.
     - [Try-YW (play with a limited YW version in the browser)](http://try.yesworkflow.org)
     - [YW production system (under development)](https://github.com/yesworkflow-org/yw)
 
+- **Day 1 notes:** [http://bit.ly/20170831-provathon-notes](http://bit.ly/20170831-provathon-notes)
+
+
 ## Participants
 
 - Jamie Afflerbach
@@ -89,10 +92,6 @@ Science Gateways Workshop, San Diego, 2016.
 - Peter Slaughter
 - Pratik Srivastava
 - Dave Vieglais
-
-## Notes
-
-- **Day 1 notes:** http://bit.ly/20170831-provathon-notes
 
 ## Agenda
 
