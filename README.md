@@ -61,6 +61,10 @@ Science Gateways Workshop, San Diego, 2016.
 - R Recordr package
 - [Whole Tale dashboard](https://dashboard-dev.wholetale.org)
 
+- YesWorkflow [walk-through tutorial & YW prototype](https://github.com/yesworkflow-org/yw-prototypes)
+[production system (under development)](https://github.com/yesworkflow-org/yw)
+[try-yw (web playground)](http://try.yesworkflow.org)
+
 ## Participants
 
 - Jamie Afflerbach
