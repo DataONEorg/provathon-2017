@@ -46,8 +46,8 @@ D. and Walker, L., 2016,June.
 In International Provenance and Annotation Workshop
 (pp. 230-234). Springer.
 
-Bertram Ludäscher, Kyle Chard, Niall Gaffney, Matthew B. Jones,
-Jaroslaw Nabrzyski, Victoria Stodden, Matthew Turk,
+Ludäscher B, Chard K, Gaffney N, Jones M, Nabrzyski J, Stodden V, Turk
+M,
 [Capturing the "Whole Tale" of Computational Research: Reproducibility in Computing Environments](https://arxiv.org/abs/1610.09958),
 Science Gateways Workshop, San Diego, 2016.
 
@@ -127,7 +127,8 @@ Science Gateways Workshop, San Diego, 2016.
 
 **1200 - 1300 Lunch**
 
-- including provenance-related posters from summer internships (DataONE, Whole Tale)
+- poster session featuring summer internships related to provenance (DataONE, Whole-Tale)
+    - Xiaoliang Jiang, Linh Hoang, Hui Lyu, Pratik Srivastava
 
 **1300 - 1445 Provenance Tools I (Room: Eagle AB)**
 
