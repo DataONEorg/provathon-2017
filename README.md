@@ -124,10 +124,8 @@ In International Provenance and Annotation Workshop
 
 - 1300 - 1400  Intro to the DataONE R provenance tools (Matt)
 
-    -   Entry point, methods for addition
+    -   R libraries: `dataone`, `datapack`, `recordr`
 
-    -   DataONE Tiers
-    
 - 1400 - 1445 Intro to YesWorkflow (Bertram)
 
     -   YW modeling exercise (Bertram)
@@ -138,7 +136,7 @@ In International Provenance and Annotation Workshop
 
 - 1515 - 1700 Intro to the Whole Tale web tool (Bertram & Matt)
 
-    -   Hands on with WT tool, including importing data/provenance from DataONE R package
+    -   Hands on with WT tool, including importing data from DataONE
     
 ### Day 2: Friday, September 1, 2017
 
