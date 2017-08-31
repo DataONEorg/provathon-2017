@@ -73,6 +73,8 @@ In International Provenance and Annotation Workshop
 
 ### Day 1: Thursday, August 31, 2017
 
+**0715 - 0800 Breakfast**
+
 **0800 - 1000 Welcome and Overviews (Room: Tamaya ABC)**
 
 - 0800 - 0825 Overview of DataONE (Bill Michener, DataONE)
@@ -132,6 +134,8 @@ In International Provenance and Annotation Workshop
     -   Hands on with WT tool, including importing data/provenance from DataONE R package
     
 ### Day 2: Friday, September 1, 2017
+
+**0715 - 0800 Breakfast**
 
 **0800 - 1000 Breakout Groups: Archaeology (Room: Eagle A), Environmental Science (Room: Eagle B)**
 
