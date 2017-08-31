@@ -152,7 +152,7 @@ Science Gateways Workshop, San Diego, 2016.
 
 **1515 - 1700 Provenance Tools II (Room: Eagle AB)**
 
-- 1515 - 1700 Intro to the Whole Tale web tool (Bertram & Matt)
+- 1515 - 1700 Intro to the Whole Tale web tool (Matt & Bertram)
 
     -   Hands on with WT tool, including importing data from DataONE
     
