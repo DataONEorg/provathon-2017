@@ -74,27 +74,28 @@ Science Gateways Workshop, San Diego, 2016.
 
 ## Participants
 
-- Jamie Afflerbach
-- Kyle Bocinsky
-- Carl Boettiger
-- Emory Boose
-- Amber Budden
+- [Jamie Afflerbach](https://github.com/jafflerbach)
+- [Kyle Bocinsky](https://github.com/bocinsky)
+- [Carl Boettiger](https://github.com/cboettig)
+- [Emery Boose](https://github.com/erboose)
+- [Amber Budden](https://github.com/aebudden)
 - Peter Darch
-- Matt Harris
+- [Matt Harris](https://github.com/mrecos)
 - Linh Hoang
 - Xiaoliang Jiang
-- Chris Jones
-- Matt Jones
-- Eric Kansa
-- Josh London
-- Julie Lowndes
-- Bertram Ludäscher
+- [Chris Jones](https://github.com/csjx)
+- [Matt Jones](https://github.com/mbjones)
+- [Eric Kansa](https://github.com/ekansa)
+- [Keith Kintigh](https://github.com/kintigh)
+- [Josh London](https://github.com/jmlondon)
+- [Julie Lowndes](https://github.com/jules32)
+- [Bertram Ludäscher](https://github.com/ludaesch)
 - Hui Lyu
-- Ben Marwick
-- Paulina Przystupa
+- [Ben Marwick](https://github.com/benmarwick)
+- [Paulina Przystupa](https://github.com/ciszka)
 - Peter Slaughter
 - Pratik Srivastava
-- Dave Vieglais
+- [Dave Vieglais](https://github.com/datadavev)
 
 ## Agenda
 
