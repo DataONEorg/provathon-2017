@@ -66,10 +66,9 @@ Science Gateways Workshop, San Diego, 2016.
     - [Try-YW (play with a limited YW version in the browser)](http://try.yesworkflow.org)
     - [YW production system (under development)](https://github.com/yesworkflow-org/yw)
 
-- **Day 1 notes:** [http://bit.ly/20170831-provathon-notes](http://bit.ly/20170831-provathon-notes)
-- **Day 2 notes:** 
-    - [Archaeology](https://docs.google.com/document/d/1j7J1RNsvorGjKZQ9ZLh_r9hSJsIIyqjwR6p5qbG6fDE/edit)
-    - [Environmental Sciences](https://docs.google.com/document/d/1UND3RohNBRIwmLbZdTTfom2KOAo-dohsBOteaqOttqU/edit)
+- [**Day 1 notes**](20170831_notes.md)
+- [**Day 2 notes**](20170901_notes.md)
+- [**Day 3 notes**](20170902_notes.md)
 
 
 ## Participants
