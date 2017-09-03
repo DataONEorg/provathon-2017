@@ -1,0 +1,54 @@
+# Saturday 2017-09-02
+
+Communications after workshop
+
+* Continue to use Slack channel
+
+* Github repo as central location for document outcomes
+
+Bertram looking to gather feedback on Whole Tale, also to update the group on WT status
+
+DataONE to continue looking into support for external resources referenced from ORE document.
+
+* Requires some UI changes to indicate external resources
+
+* Add capability perhaps to the replication auditor to check external link status
+
+* Develop best practices guidelines for adding external references in ORE documents
+
+Locate or develop a DOI best practices guideline that works for Linked Open Data. Should include guidelines for implementers on content negotiation etc for best representing machine readable content.
+
+In the DataONE search UI, suggestion for some refactoring of the provenance view, e.g.: 
+
+* cover flow type view of the graph, scroll left / right to view related content
+
+* add in display of application entries as input to scripts / processing
+
+* displaying the distinction between content in my project and who is using content from my package
+
+* zoomed out view showing whole graph of related information (package level to reduce complexity)
+
+Considering how to support a filesystem structure as part of a data package. One approach may be to add all components of the local package as objects within a data package, then also include a manifest file that records the file path and identifier of each component included in the package. An ingest tool could generate the manifest file and upload all the associated content to a DataONE MN. For egress, a tool could be given the manifest file and recreate the local package by GETting each of the referenced objects. 
+
+Adding more provenance content to DataONE
+
+Environmental: 
+
+* talk to Halley re her recent publication.  Likely the fastest piece to enter. [https://search.dataone.org/index.html#view/doi:10.5063/F1CF9N69](https://search.dataone.org/index.html#view/doi:10.5063/F1CF9N69)
+
+* Ocean Health Index, start adding relations using the new web UI for provenance
+
+Archaeology:
+
+* PLOSone pub - EoL funded data challenge; North American site data aggregate data set; Data in JSON-LD.
+
+* [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099845](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099845)
+
+* Look at better integration with Merritt to expose more content
+
+* Working integration with VertNet. OAI-PMH, Atom feed export 
+
+Add a mechanism to MN or perhaps tool being used to add content, so when content is created, examine scripts for YW for provenance info, and use that to add to the resource map.
+
+YesWorkflow C++ implementation and integration with R - Suggest adding as a package to ROpenSci
+
