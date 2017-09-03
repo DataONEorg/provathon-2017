@@ -1,0 +1,159 @@
+# Provathon Notes from 2017-08-31
+
+[[Provathon github site](https://github.com/DataONEorg/provathon-2017)] 
+
+Schedule: [https://dataoneorg.github.io/provathon-2017/](https://dataoneorg.github.io/provathon-2017/) 
+
+## LIghtning talks 
+
+[Slides are here](https://github.com/DataONEorg/provathon-2017/tree/master/lightning-talks)
+
+### Kyle Bocinsky, SKOPE: 
+
+* SKOPE Synthesizing Knowledge of Past Environments [https://www.openskope.org/](https://www.openskope.org/) [slides](https://github.com/DataONEorg/provathon-2017/blob/master/lightning-talks/bocinsky.pdf)
+
+### Ben Marwick, [rrtools](https://github.com/benmarwick/rrtools): Tools for Writing Reproducible Research in R
+
+* Starts you off with an R Project and MIT licence, and GH repo, README, CONTRIBUTING (borrowing rOpenSci practices)...and structures the whole analysis like an R package 
+
+### Matt Harris, Extracting Field Signboard Text with Google Vision. 
+
+* [Slides](https://github.com/DataONEorg/provathon-2017/blob/master/lightning-talks/Harris.pdf) 
+
+* Uses [https://github.com/cloudyr/RoogleVision](https://github.com/cloudyr/RoogleVision) to send photos to Google's Cloud Vision API and extract useful information from archaeological field photography
+
+### Eric Kansa, archaeological data publishing by [Open Context](https://opencontext.org/)
+
+* Secret Life Of Data (SLO data)
+
+* Requesting participants for survey
+
+### Carl Boettiger, The [CodeMeta Project](https://codemeta.github.io/) & the [Rocker](https://github.com/rocker-org/rocker) project
+
+* Crosswalking: Helping to translate between contexts, for example from R to python
+
+* Rocker: docker containers with R and other stuff ready to go, minimal config
+
+### Emery Boose, Fine Scale Provenance in R
+
+* [https://github.com/End-to-end-provenance/RDataTracker](https://github.com/End-to-end-provenance/RDataTracker) 
+
+### Josh London, Capturing and Tracking Seals in Alaska
+
+* Using R markdown, github, zenodo
+
+* [https://github.com/jmlondon](https://github.com/jmlondon) 
+
+### Jamie Afflerbach, Julie Lowndes: Ocean Health Index 
+
+* [slides](https://docs.google.com/presentation/d/1746rdhMcLzKFPso4czcmIBP7jmG0yvYl0p06FDCd4ds/edit#slide=id.p)
+
+* "Our path to better science in less time using open data science tools" [https://www.nature.com/articles/s41559-017-0160](https://www.nature.com/articles/s41559-017-0160) 
+
+* http://ohi-science.org/
+
+### Peter Darch, Social science case studies of large scientific collaborations 
+
+* Organisational and cultural dimensions of reproducible research
+
+* What shifts required to promote reproducible science? What might be some unintended consequences? 
+
+## Demos
+
+### Matt Jones, Web Interface for Provenance Editing: 
+
+* Provenance Editing via the web [https://dataoneorg.github.io/provathon-2017/prov-editing/prov-editing.html](https://dataoneorg.github.io/provathon-2017/prov-editing/prov-editing.html) 
+
+* Tools for uploading Provenance in R [https://nceas.github.io/oss-lessons/publishing-data/upload-data.html](https://nceas.github.io/oss-lessons/publishing-data/upload-data.html), demo files at [https://github.com/NCEAS/oss-lessons](https://github.com/NCEAS/oss-lessons) 
+
+* R Recordr package: [https://github.com/NCEAS/recordr](https://github.com/NCEAS/recordr), vignette: [https://raw.githubusercontent.com/NCEAS/recordr/master/vignettes/intro_recordr.Rmd](https://raw.githubusercontent.com/NCEAS/recordr/master/vignettes/intro_recordr.Rmd)  
+
+### Bertram Ludäscher, YesWorkflow
+
+* YesWorkflow: [https://github.com/yesworkflow-org/yw-prototypes](https://github.com/yesworkflow-org/yw-prototypes) 
+
+* Production version: [https://github.com/yesworkflow-org/yw](https://github.com/yesworkflow-org/yw) 
+
+* Abstraction? Maybe gets another * if you use notebooks/rmd… hopefully commenting is getting better…
+
+    * Example of the OHI .Rmd: [https://cdn.rawgit.com/OHI-Science/ohiprep/62f96ee7/globalprep/prs_oa/v2017/create_oa_layer.html](https://cdn.rawgit.com/OHI-Science/ohiprep/62f96ee7/globalprep/prs_oa/v2017/create_oa_layer.html)
+
+* YW in the browser: [http://absflow.westus.cloudapp.azure.com/](http://absflow.westus.cloudapp.azure.com/) 
+
+* … 
+
+* [Whole Tale](http://wholetale.org/): 'give them the computer' [https://dashboard-dev.wholetale.org/](https://dashboard-dev.wholetale.org/) 
+
+### Matt Jones, Whole Tale Demo: 
+
+* Whole Tale demo: [https://dashboard-dev.wholetale.org/](https://dashboard-dev.wholetale.org/)   
+
+    * cf. (similar but different): Jetstream Atmosphere images [https://use.jetstream-cloud.org/](https://use.jetstream-cloud.org/) 
+
+* currently supported front-ends: Jupyter, RStudio; custom front-ends will be easy to add; docker/machine config (later)
+
+* running RStudio in WT dashboard
+
+    * after leaving the environment, the state is preserved; when reconnecting, the same state will be visible
+
+        * … modulo some (avoidable?) RStudio message!?  (→ Carl B might know)
+
+* How to deal with "idle time"? What is WT doing right now? How should it be?
+
+* Discussion about different use cases and modes of use
+
+    * crowd-sourced use of shared tale
+
+    * WT vs github based collab
+
+    * pair programming
+
+        * cf. [http://www.pythontutor.com/](http://www.pythontutor.com/) ( → Collaborate to learn together)
+
+    * common use case: 
+
+        * publish work via dockerhub
+
+        * run via WT (without knowing anything about docker)
+
+    * ⇒ new use case!?  If you have accounts, credentials for different cloud providers (eg Amazon); then WT will take care of "patching you through"
+
+        * also a possible solution to sustainability..
+
+    * expose lower-level info via log-file "dashboard-log.txt" 
+
+        * similar to std-error 
+
+        * allows to see what cloud resources have been used 
+
+* What cloud providers are most popular with this community?
+
+    * depends: amazon, google, azure,  ..
+
+* ⇒ Feedback sought on the tale presentation in the UI: 
+
+    * category, title, abstract, ..
+
+    * how to search, browse .. 
+
+    * ⇒ compare with [https://rpubs.com/](https://rpubs.com/) 
+
+* search by username; contributor
+
+* how far to go down the road? e.g. see [https://en.wikipedia.org/wiki/MyExperiment](https://en.wikipedia.org/wiki/MyExperiment) 
+
+* more focused: search by datasets *used* 
+
+    * ⇒ could a "standard" (or merely a convention) be used for writing log-info (as provenance)
+
+* Chris describes possible "breaks in provenance chain"
+
+    * DaveV: embedded metadata (as in PDF) might solve this!?
+
+* extended file metadata / attributes
+
+* support for workflows through cobbled together containers!?
+
+    * cf. [https://docs.docker.com/compose/](https://docs.docker.com/compose/) 
+
+
