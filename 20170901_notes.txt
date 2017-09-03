@@ -1,0 +1,348 @@
+
+# Prov-a-thon Day 2, Friday 2017-09-01, Ecology
+
+[https://docs.google.com/document/d/1UND3RohNBRIwmLbZdTTfom2KOAo-dohsBOteaqOttqU](https://docs.google.com/document/d/1UND3RohNBRIwmLbZdTTfom2KOAo-dohsBOteaqOttqU)
+
+[https://dataoneorg.github.io/provathon-2017/](https://dataoneorg.github.io/provathon-2017/)
+
+CB: Challenge: The example that motivates the need to have provenance metadata.  It’s clear why writing clear metadata is empowering.  Lacking the same for provenance. MJ: Why provenance and use cases.
+
+JL: Benefit in meeting earlier with Archeology since there are shared questions / stories with respect to the ‘why’
+
+CJ: Nice to have both the prose documentation and the script provenance
+
+Josh: Would love to avoid parallel processing and expand rmd
+
+JA: When does the story start? What’s the most useful starting point?
+
+MJ: Linking to publications.  Are publications derived from data or do they contain the data?
+
+CB: Is provenance the future of citations?
+
+## Topics
+
+1. Why provenance
+
+    1. Use cases: OHI, NOAA
+
+    2. What is useful?
+
+    3. Who uses it?
+
+2. Merge ProvONE and RMD/Prose methods
+
+3. References to "other people’s data"
+
+4. Citations as provenance
+
+5. Tool compatibility
+
+## Why Provenance
+
+* To reproduce the work, CB and others want an explanation of the process
+
+* Need an entry point to understand the where to begin
+
+* Reasons:
+
+    * Get a high level sense of the project
+
+    * Combination of understanding what has happened in the process.  Understanding low level details.  If you want to understand someone’s script you can look at it, you can run it and you can look at the provenance.  Helps you think about what someone does.
+
+    * Be able to feel confident about the step of the process that is most useful.  Spend a lot of time looking for data for research.  Being able to see the steps and locate relevant intermediate files would be useful.  For OHI can support communication by reducing requests - being transparent will allow others understand / use the products.
+
+    * Like to be able to run a ‘make clean’ and see elements, be able to programmatically run an update across all. Auto-execution, smart runs.
+
+    * Good provenance means good credit for people that write software / data that is impactful
+
+    * High level motivation. Prose is important - contains the motivation, the ‘why’.
+
+    * Accountability - chain of custody
+
+    * Documentation tool for future self
+
+    * Provenance as a discovery tool across projects
+
+    * Full network, visual representation is another way to communicate what has been done.  Another way to understand the research process.  Visual is a benefit.
+
+    * More efficient representation of the low level details in comparison with prose (recognising there is benefit to prose)
+
+    * Expose when workflow data dependencies have newer versions
+
+## OHI Use Case
+
+* Discussion on data that are used that can’t be redistributed. One solution is to archive the file in a repository, but don’t provide public/read access.
+
+* Even data that are publicly available often don’t have persistent identifiers associated with them.  This is the case for OHI processing, where driver data are pulled from websites (like SST data), but the data for any given run gets the "most recent" bytes served at the link.
+
+* For each dataset used, you need to do your due diligence to see if the agency actually does archive the data in a persistent repository.  Web interfaces may provide subsets of archived data that are not persisted.
+
+* Researcher desire to cite a paper rather than the data
+
+* YW comment annotations could be knittr chunks
+
+* YW could detect Rmd headers as nested code blocks (or be generally Markdown-aware to be language-agnostic)	
+
+
+
+# Prov-a-thon Day 2, Friday 2017-09-01, Archaeology
+
+[[Prov-a-thon Day 1 Notes](https://docs.google.com/document/d/1ovw_ENuh0oNBNgpUWqhaZ-82Y0tiXTwIbRE-lL-bPRM/edit)] 
+
+## Agenda Ideas
+
+* Discuss Indigenous Data Science NEH institute idea
+
+* Brainstorm (re)modeling archaeology
+
+* Planning for ABQ2019 #SAA2019
+
+* Update on publications committee✅
+
+    * Ben Marwick is preparing a memo for the SAA Publications Committee:
+
+        * Article level metrics should be emphasised, less than journal impact factor
+
+        * Citations and References lists should feed into citation databases, as open data (for mining by all)
+
+        * DORA?: Ethical guidelines for publishing (editors, peer-reviewers), we need to see these in archaeology publications
+
+        * TOP: "Transparency and Openness for Promotion", citation standards, data access, etc. Ben suggests we adopt these recommendations / ratings.
+
+    * Badging for papers that achieve certain levels of reproducibility (the *Internet Archaeology* journal does this now). 
+
+* Demo of rrtools package by Ben Marwick
+
+* Discussion of site location sensitivity, protection, and de-identification
+
+* Hands-on Wholetale if bug fixed
+
+* Discuss use cases and provide feedback/critique of yesworkflow, recordr, et al.
+
+* Intersection of reproducibility and data prov in current archaeological practice
+
+SAA Board
+
+* Gordon 
+
+* Ricky Lightfoot
+
+* Emily 
+
+SAA Publications Committee
+
+* Here's the chair of the SAA pub com: Terry Majewski  [tmajewski@sricrm.com](mailto:tmajewski@sricrm.com), to make suggestions about future directions for the SAA journals (please help me get her to read my memo! BM)
+
+* Proposing that the SAA get on board with DORA, COPE, TOPS, here's the memo: [https://docs.google.com/document/d/1X37JM-O9uyEsB4JPOIt2bUgCQGQRWkstewEui2IEXNo/edit](https://docs.google.com/document/d/1X37JM-O9uyEsB4JPOIt2bUgCQGQRWkstewEui2IEXNo/edit) 
+
+* Link to SAA style guide (2017): [http://www.saa.org/Portals/0/SAA%20Style%20Guide_Final_6-5-17.pdf](http://www.saa.org/Portals/0/SAA%20Style%20Guide_Final_6-5-17.pdf)
+
+Future SAA session on peer reviewing to raise awareness about lifting standards
+
+Appeal to NSF program director (John Yellen), "the main professional organisation says we must do …" 
+
+* Get the SAA Board to pass a resolution that "it would be a good thing if NSF required measurement and closer scrutiny of data management plans" to pass the message onto John Yellen. Who to draft this resolution? Co-sign by: 
+
+    * Digital Data Interest Group, 
+
+    * Open Science Interest Group & Quantitative Methods and Statistical Computing in Archaeology Interest Group, 
+
+    * Public Archaeology Interest Group, 
+
+    * Teaching Archaeology Interest Group, 
+
+    * Committee on Ethics (Arlen F. Chase, [arlen.chase@unlv.edu](mailto:arlen.chase@unlv.edu))
+
+    * Committee on Curriculum (Larkin N. Hood, [lnapua@gmail.com](mailto:lnapua@gmail.com))
+
+    * Public Education Committee (Elizabeth C. Reetz, [elizabeth-reetz@uiowa.edu](mailto:elizabeth-reetz@uiowa.edu))
+
+    * TF on Implementing Data Access & Archiving Recommendations (Willeke Wendrich, wendrich@humnet.ucla.edu)
+
+* Archaeological specific Data Management Plan (DMP) template for Dissertation improvement grants from NSF.
+
+* E.g. Arctic Data Center Program Officer utilizes data standards for grants.
+
+## rrtools package demo: Ben Marwick
+
+* [https://github.com/benmarwick/rrtools](https://github.com/benmarwick/rrtools)
+
+* Following in Wholetale, you have to manually open the new rproj after use_compendium()
+
+* Ben highlighted the value of setting expectations for community conduct, the code of conduct document to signal these expectations (see: [https://github.com/benmarwick/rrtools/blob/master/CONDUCT.md](https://github.com/benmarwick/rrtools/blob/master/CONDUCT.md))
+
+* Preprint of Ben’s new paper: Packaging data analytical work reproducibly using R (and friends) [https://peerj.com/preprints/3192](https://peerj.com/preprints/3192)
+
+* [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/) 
+
+* Rendering LaTeX in rmarkdown: 
+
+    * [http://rmarkdown.rstudio.com/pdf_document_format.html#latex_engine](http://rmarkdown.rstudio.com/pdf_document_format.html#latex_engine)
+
+    * [https://tex.stackexchange.com/questions/171711/how-to-include-latex-package-in-r-markdown](https://tex.stackexchange.com/questions/171711/how-to-include-latex-package-in-r-markdown)
+
+    * [http://kbroman.org/knitr_knutshell/pages/latex.html](http://kbroman.org/knitr_knutshell/pages/latex.html)
+
+* Related for Jupyter:
+
+    * Citation / connection with Zotero: [https://github.com/takluyver/cite2c](https://github.com/takluyver/cite2c) 
+
+* Rmarkdown code chunk options (re. Chunk dependencies)
+
+    * [https://yihui.name/knitr/options/](https://yihui.name/knitr/options/)
+
+    * [https://stackoverflow.com/questions/33269865/how-to-make-code-chunks-depend-on-all-previous-chunks-in-knitr-rmarkdown](https://stackoverflow.com/questions/33269865/how-to-make-code-chunks-depend-on-all-previous-chunks-in-knitr-rmarkdown)
+
+* Note: `devtools::session_info()` is slightly different from (and better than) the commonly used `sessionInfo()`
+
+Reproducibility round robin evaluation exercise:
+
+* Get a bunch of authors from the [https://github.com/benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology) list of papers to attempt to reproduce each other's papers
+
+* Get funding: rOpenSci, NSF
+
+* Present results at SAA, what works, what doesn't, what's the 
+
+How to get to archaeologists that are not us, to help them learn about this stuff:
+
+* Summer schools
+
+* SAA webinar (Matt did one)
+
+* SAA workshops (Matt and Ben did one), during or after the meetings
+
+* Indigenous heritage data science (via NEH)
+
+* NSF has separate money for training activities
+
+* Archaeology data science field schools (cf. IFR)
+
+## **Afternoon**
+
+* WT dashboard not working :-( 
+
+* Discussion on data versioning (github often cannot be used to deposit data)
+
+* Exploring WT dashboard
+
+    * Ben Marwick’ tale has been showing up many times, despite sustained efforts at deleting!
+
+        * aside: How to do a mass delete?
+
+    * … and after deleting, the tales are back.. 
+
+    * saving new file to home created "no such file or directory"
+
+    * Successful build/install of Stan; Bayesian MCMC sampling engine and language. [https://github.com/stan-dev/rstan](https://github.com/stan-dev/rstan)
+
+        * Typically a tough toolchain to make work on first try; but built just fine in Wholetale on first shot.
+
+        * Now it would be nice to preserve this container so that I don’t have to build it again :)
+
+ 
+
+# Plenary Session:
+
+Kyle B reporting
+
+* .. 
+
+* community needs support for versioned data (not under the control of the scientists!?)
+
+*  drawing data from a db, don’t want to reference all of it; just a subset
+
+* good opportunities for using WT in teaching
+
+    * concurrent use of WT: 
+
+    * [https://github.com/whole-tale/dashboard/issues/68](https://github.com/whole-tale/dashboard/issues/68) 
+
+* how to "take out" a tale (e.g., publish to dockerhub)
+
+* another issue: if an image build takes a long time; how to avoid redoing it every time?
+
+Ecology group reporting:
+
+* Why provenance? (what for?)
+
+* …
+
+* complementing Rmd with YW annotations
+
+    * OHI example
+
+    * ..
+
+    * YW annotation only took 10 min! ;)
+
+* where does the R code go? (not CRAN, not github… DataONE!?)
+
+# General Discussion:
+
+1. Prioritization
+
+2. Community Outreach
+
+    1. Sponsor incubation actual research outcomes (e.g. workshops)
+
+    2. Highlight examples in the community
+
+    3. Archeology group brainstormed - committee work (ESA, ..). Discussed motions to propose to bairds of societies, discussed bottom up approach to behavioral change, workshops for training new people (not sure what that looks like), try to reproduce archeological research and anticipate this to be eye opening. Junior scholars - create materials for this cohort? 
+
+    4. What has been successful thus far in the community? And what hasn’t been successful? Showcase examples. 
+
+    5. People adopt things if they are easy to adopt. Support ‘leaders’ to get provenance metadata to facilitate the spread of knowledge.
+
+    6. Use other forms of communication - blogs, social media etc for high exposure.
+
+    7. Ted talk on DataONE
+
+    8. Drop the word provenance from materials and talk about reproducible research? Citable data? Workflows? Provenance is different to reproducible.  It brings out communication. The distinction is useful. However, is the distinction important to people that don’t even understand reproducible?
+
+# Next Steps
+
+1. Workshop report out
+
+2. WholeTale working groups
+
+3. Exposing data via WholeTale blogs
+
+4. Recycle award - sponsored prize for someone that reuses data. Through WholeTale?
+
+5. Follow through on getting uses cases (in a collaborative fashion?) completed
+
+    1. Coordinate through github?
+
+6. Submission review process for reproducible packages. Community developed criteria.
+
+7. Github badges
+
+8. Increase visibility through development / improvement of R packages.  
+
+9. Integrate prov (yesworkflow?) support into Rstudio and rmd
+
+10. Rtools, data repo, provenance interoperability
+
+11. Feedback on tools through various mechanisms
+
+12. Linking out to other objects. Introduce ‘scoring’ system for availability of data. (could extend the scoring to an author level metric as a check when entering prov data)
+
+13. Develop a recommendation (with examples as rationale) for DOI use.  What the DOI should resolve to.
+
+14. Quick follow up survey.
+
+# Actions
+
+1. **Carl** nominated **Ben** to establish a submission review model. **Carl** and **Matt** to support.
+
+2. **Josh** will develop out a use case and communicate via slack
+
+3. **Peter** to explore yesworklow as a stand alone package that RecordR can use
+
+4. **Ben** to explore interoperability of tools. **Kyle** will support.
+
+5. **Matthew** willing to test and guinea pig things as needed.
+
+6. **Bertram** will lead the report.
+
+7. **DataONE** to explore how to link out to DOIs, recognising variation in ‘class’ of objects. 
