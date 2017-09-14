@@ -14,7 +14,7 @@ the origins of data that ultimaltely supports reproducible research workflows.
 incorporating provenance information into tools and workflows that are useful in 
 earth, environmental, and archeological research domains.
 
-- Dates: Aug 31 &  Sept 1, 2017
+- Dates: Aug 31 - Sep 2 (morning), 2017
 - Venue: Tamaya Resort, New Mexico
 - Sponsors
     - [DataONE](https://dataone.org)
@@ -255,6 +255,11 @@ Science Gateways Workshop, San Diego, 2016.
 
 ### Day 3: Saturday, September 2, 2017
 
-**0730 - 0930 Breakfast: Reflections, follow-up**
+**0730 - 0800 Breakfast**
+
+**0800 - 1100 Review,  Reflections, Follow-up**
+
+**1100 - 1200 Lunch (boxes)**
+
 
 
